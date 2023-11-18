@@ -1,0 +1,244 @@
+State Name,State Code,Year,Total Deaths,No. Injured,Total Damage ('000 US$),Total Disasters,Disaster Types
+Alabama,AL,2019,56.0,114.0,2925000.0,15.0,"{'Severe Storm': 13, 'Tornado': 2}"
+Arkansas,AR,2019,13.0,12.0,4500000.0,39.0,{'Flood': 39}
+California,CA,2019,76.0,14.0,1625000.0,61.0,"{'Fire': 21, 'Earthquake': 3, 'Severe Storm': 37}"
+Colorado,CO,2019,27.0,57.0,0.0,0.0,0
+Connecticut,CT,2019,2.0,12.0,1200000.0,0.0,0
+Florida,FL,2019,56.0,90.0,2025000.0,90.0,{'Hurricane': 90}
+Georgia,GA,2019,64.0,102.0,3325000.0,13.0,{'Hurricane': 13}
+Iowa,IA,2019,18.0,57.0,10000000.0,83.0,{'Flood': 83}
+Illinois,IL,2019,20.0,69.0,11200000.0,29.0,{'Flood': 29}
+Indiana,IN,2019,20.0,12.0,1435000.0,0.0,0
+Kansas,KS,2019,36.0,57.0,10235000.0,120.0,{'Severe Storm': 120}
+Louisiana,LA,2019,31.0,12.0,4735000.0,100.0,"{'Flood': 27, 'Hurricane': 27, 'Coastal Storm': 42, 'Severe Storm': 4}"
+Massachusetts,MA,2019,2.0,12.0,1200000.0,0.0,0
+Maryland,MD,2019,2.0,12.0,1200000.0,0.0,0
+Michigan,MI,2019,5.0,0.0,10000000.0,0.0,0
+Minnesota,MN,2019,5.0,0.0,10000000.0,58.0,{'Flood': 58}
+Missouri,MO,2019,43.0,207.0,12835000.0,105.0,"{'Severe Storm': 88, 'Flood': 17}"
+Mississippi,MS,2019,57.0,114.0,3525000.0,73.0,{'Severe Storm': 73}
+North Carolina,NC,2019,21.0,12.0,2900000.0,153.0,{'Hurricane': 153}
+North Dakota,ND,2019,5.0,0.0,10000000.0,20.0,{'Flood': 20}
+Nebraska,NE,2019,36.0,57.0,10235000.0,93.0,{'Flood': 93}
+New Jersey,NJ,2019,2.0,12.0,1200000.0,0.0,0
+Ohio,OH,2019,10.0,24.0,2500000.0,35.0,"{'Tornado': 13, 'Flood': 22}"
+Oklahoma,OK,2019,5.0,0.0,3200000.0,89.0,"{'Fire': 4, 'Severe Storm': 74, 'Flood': 11}"
+Pennsylvania,PA,2019,2.0,12.0,1200000.0,0.0,0
+South Carolina,SC,2019,51.0,147.0,1790000.0,61.0,{'Hurricane': 61}
+South Dakota,SD,2019,5.0,0.0,10000000.0,128.0,"{'Severe Storm': 37, 'Flood': 91}"
+Tennessee,TN,2019,6.0,12.0,3800000.0,71.0,"{'Severe Storm': 11, 'Flood': 60}"
+Texas,TX,2019,32.0,12.0,7400000.0,51.0,"{'Flood': 49, 'Fire': 2}"
+Virginia,VA,2019,25.0,69.0,2800000.0,0.0,0
+Washington,WA,2019,13.0,57.0,0.0,9.0,{'Severe Storm': 9}
+Wisconsin,WI,2019,5.0,0.0,10000000.0,21.0,{'Flood': 21}
+West Virginia,WV,2019,2.0,12.0,1200000.0,6.0,{'Flood': 6}
+Alabama,AL,2020,67.0,231.0,17500000.0,146.0,"{'Hurricane': 107, 'Severe Storm': 39}"
+Arkansas,AR,2020,110.0,500.0,28450000.0,91.0,"{'Hurricane': 76, 'Tornado': 15}"
+Colorado,CO,2020,32.0,0.0,11000000.0,12.0,{'Fire': 12}
+Connecticut,CT,2020,16.0,0.0,4800000.0,11.0,{'Hurricane': 11}
+Delaware,DE,2020,16.0,0.0,4800000.0,3.0,{'Hurricane': 3}
+Florida,FL,2020,41.0,31.0,15600000.0,69.0,"{'Hurricane': 63, 'Fire': 6}"
+Georgia,GA,2020,88.0,531.0,16600000.0,0.0,0
+Iowa,IA,2020,0.0,0.0,2900000.0,26.0,{'Severe Storm': 26}
+Illinois,IL,2020,38.0,300.0,10250000.0,0.0,0
+Indiana,IN,2020,27.0,300.0,9900000.0,0.0,0
+Kansas,KS,2020,2.0,0.0,850000.0,0.0,0
+Kentucky,KY,2020,35.0,300.0,9500000.0,28.0,{'Severe Storm': 28}
+Louisiana,LA,2020,95.0,231.0,25825000.0,455.0,"{'Hurricane': 390, 'Coastal Storm': 65}"
+Maryland,MD,2020,27.0,0.0,5150000.0,0.0,0
+Michigan,MI,2020,1.0,0.0,5000000.0,9.0,{'Dam/Levee Break': 9}
+Missouri,MO,2020,37.0,300.0,10350000.0,20.0,{'Severe Storm': 20}
+Mississippi,MS,2020,119.0,531.0,28175000.0,175.0,"{'Hurricane': 103, 'Severe Storm': 72}"
+North Carolina,NC,2020,85.0,200.0,15250000.0,139.0,"{'Hurricane': 119, 'Severe Storm': 20}"
+New Hampshire,NH,2020,16.0,0.0,4800000.0,0.0,0
+New Jersey,NJ,2020,16.0,0.0,4800000.0,12.0,{'Hurricane': 12}
+New York,NY,2020,16.0,0.0,4800000.0,8.0,{'Hurricane': 8}
+Ohio,OH,2020,25.0,300.0,8300000.0,0.0,0
+Oklahoma,OK,2020,42.0,331.0,10450000.0,32.0,"{'Severe Ice Storm': 30, 'Fire': 2}"
+Oregon,OR,2020,32.0,0.0,11000000.0,75.0,"{'Fire': 70, 'Flood': 5}"
+Pennsylvania,PA,2020,41.0,300.0,7300000.0,0.0,0
+South Carolina,SC,2020,62.0,200.0,13650000.0,22.0,{'Severe Storm': 22}
+Tennessee,TN,2020,77.0,500.0,15625000.0,38.0,"{'Severe Storm': 31, 'Tornado': 7}"
+Texas,TX,2020,115.0,531.0,31500000.0,102.0,{'Hurricane': 102}
+Virginia,VA,2020,67.0,331.0,13450000.0,0.0,0
+Washington,WA,2020,32.0,0.0,11000000.0,40.0,"{'Fire': 24, 'Flood': 16}"
+Wisconsin,WI,2020,11.0,0.0,3250000.0,4.0,{'Flood': 4}
+West Virginia,WV,2020,25.0,300.0,5400000.0,0.0,0
+Alabama,AL,2021,40.0,67.0,6565000.0,12.0,{'Severe Storm': 12}
+Arkansas,AR,2021,341.0,119.0,38900000.0,6.0,{'Tornado': 6}
+Arizona,AZ,2021,21.0,25.0,2110000.0,11.0,"{'Fire': 7, 'Flood': 4}"
+California,CA,2021,250.0,22.0,7125000.0,32.0,{'Fire': 32}
+Colorado,CO,2021,251.0,10.0,35275000.0,7.0,{'Fire': 7}
+Connecticut,CT,2021,96.0,0.0,65550000.0,30.0,{'Hurricane': 30}
+Delaware,DE,2021,96.0,0.0,65000000.0,2.0,{'Hurricane': 2}
+Florida,FL,2021,121.0,16.0,3445000.0,64.0,"{'Hurricane': 24, 'Severe Storm': 38, 'Other': 2}"
+Georgia,GA,2021,19.0,17.0,5500000.0,32.0,"{'Severe Storm': 10, 'Hurricane': 22}"
+Guam,GU,2021,0.0,0.0,0.0,0.0,0
+Hawaii,HI,2021,1.0,0.0,50000.0,4.0,"{'Fire': 2, 'Flood': 2}"
+Iowa,IA,2021,6.0,0.0,3100000.0,0.0,0
+Idaho,ID,2021,229.0,0.0,0.0,8.0,"{'Fire': 3, 'Severe Storm': 5}"
+Illinois,IL,2021,328.0,110.0,36500000.0,15.0,{'Tornado': 15}
+Indiana,IN,2021,0.0,0.0,1300000.0,0.0,0
+Kansas,KS,2021,5.0,0.0,1900000.0,0.0,0
+Kentucky,KY,2021,335.0,111.0,37050000.0,138.0,"{'Tornado': 41, 'Flood': 51, 'Severe Ice Storm': 46}"
+Louisiana,LA,2021,357.0,27.0,100260000.0,369.0,"{'Coastal Storm': 65, 'Hurricane': 166, 'Flood': 8, 'Severe Ice Storm': 130}"
+Massachusetts,MA,2021,4.0,0.0,100000.0,2.0,{'Hurricane': 2}
+Maryland,MD,2021,105.0,1.0,66450000.0,4.0,{'Hurricane': 4}
+Maine,ME,2021,4.0,0.0,100000.0,0.0,0
+Michigan,MI,2021,0.0,0.0,1300000.0,6.0,{'Severe Storm': 6}
+Minnesota,MN,2021,5.0,0.0,1900000.0,0.0,0
+Missouri,MO,2021,334.0,110.0,39600000.0,24.0,{'Severe Storm': 24}
+Mississippi,MS,2021,363.0,147.0,42270000.0,205.0,"{'Hurricane': 167, 'Severe Ice Storm': 38}"
+Montana,MT,2021,0.0,25.0,10000.0,18.0,"{'Fire': 12, 'Other': 6}"
+North Carolina,NC,2021,255.0,27.0,35100000.0,32.0,"{'Hurricane': 12, 'Severe Storm': 20}"
+North Dakota,ND,2021,1.0,0.0,1200000.0,10.0,{'Severe Storm': 10}
+Nebraska,NE,2021,241.0,10.0,33100000.0,15.0,{'Severe Storm': 15}
+New Jersey,NJ,2021,108.0,0.0,66950000.0,50.0,"{'Hurricane': 44, 'Snowstorm': 6}"
+New Mexico,NM,2021,23.0,0.0,3450000.0,2.0,{'Fire': 2}
+Nevada,NV,2021,238.0,0.0,300000.0,4.0,{'Fire': 4}
+New York,NY,2021,100.0,0.0,65650000.0,67.0,{'Hurricane': 67}
+Ohio,OH,2021,94.0,101.0,6650000.0,0.0,0
+Oklahoma,OK,2021,235.0,10.0,33100000.0,158.0,"{'Fire': 2, 'Severe Ice Storm': 156}"
+Oregon,OR,2021,467.0,10.0,31000000.0,15.0,"{'Fire': 7, 'Severe Storm': 8}"
+Pennsylvania,PA,2021,108.0,0.0,66400000.0,14.0,{'Hurricane': 14}
+South Carolina,SC,2021,13.0,17.0,3800000.0,0.0,0
+South Dakota,SD,2021,1.0,0.0,1200000.0,4.0,{'Fire': 4}
+Tennessee,TN,2021,369.0,119.0,39800000.0,56.0,"{'Tornado': 35, 'Flood': 5, 'Severe Ice Storm': 14, 'Other': 2}"
+Texas,TX,2021,263.0,318.0,39275000.0,514.0,"{'Fire': 4, 'Severe Ice Storm': 510}"
+Utah,UT,2021,10.0,25.0,335000.0,12.0,"{'Fire': 7, 'Severe Storm': 5}"
+Virginia,VA,2021,113.0,9.0,67850000.0,36.0,"{'Flood': 2, 'Severe Ice Storm': 34}"
+Vermont,VT,2021,0.0,0.0,550000.0,18.0,"{'Flood': 3, 'Hurricane': 15}"
+Washington,WA,2021,472.0,10.0,30975000.0,50.0,"{'Fire': 31, 'Severe Storm': 19}"
+Wisconsin,WI,2021,5.0,0.0,3200000.0,0.0,0
+West Virginia,WV,2021,1.0,1.0,150000.0,14.0,"{'Flood': 8, 'Severe Ice Storm': 6}"
+Alabama,AL,2022,24.0,115.0,12053000.0,0.0,0
+Arkansas,AR,2022,13.0,28.0,6177000.0,0.0,0
+Arizona,AZ,2022,136.0,0.0,22000000.0,10.0,"{'Flood': 2, 'Severe Storm': 2, 'Fire': 6}"
+California,CA,2022,142.0,19.0,22401000.0,11.0,{'Fire': 11}
+Colorado,CO,2022,98.0,138.0,2700000.0,0.0,0
+Connecticut,CT,2022,98.0,0.0,2700000.0,0.0,0
+Florida,FL,2022,204.0,37.0,106727000.0,272.0,"{'Hurricane': 211, 'Tropical Storm': 56, 'Fire': 5}"
+Georgia,GA,2022,109.0,37.0,6770000.0,0.0,0
+Iowa,IA,2022,11.0,28.0,4920000.0,26.0,{'Severe Storm': 26}
+Idaho,ID,2022,98.0,0.0,2700000.0,6.0,{'Fire': 6}
+Illinois,IL,2022,10.0,12.0,3320000.0,2.0,{'Flood': 2}
+Indiana,IN,2022,9.0,28.0,3620000.0,0.0,0
+Kansas,KS,2022,103.0,6.0,5207000.0,80.0,"{'Snowstorm': 21, 'Fire': 3, 'Severe Storm': 56}"
+Kentucky,KY,2022,151.0,28.0,9120000.0,35.0,"{'Flood': 21, 'Severe Storm': 14}"
+Louisiana,LA,2022,9.0,115.0,6145000.0,0.0,0
+Maryland,MD,2022,111.0,0.0,4045000.0,0.0,0
+Michigan,MI,2022,2.0,12.0,2500000.0,0.0,0
+Minnesota,MN,2022,8.0,40.0,7124000.0,68.0,"{'Severe Storm': 48, 'Flood': 20}"
+Missouri,MO,2022,149.0,12.0,9149000.0,13.0,"{'Flood': 5, 'Severe Storm': 8}"
+Mississippi,MS,2022,14.0,115.0,11527000.0,2.0,{'Other': 2}
+Montana,MT,2022,0.0,0.0,624000.0,8.0,{'Flood': 8}
+North Carolina,NC,2022,260.0,50.0,107524000.0,102.0,{'Hurricane': 102}
+North Dakota,ND,2022,0.0,0.0,0.0,41.0,{'Severe Storm': 41}
+Nebraska,NE,2022,0.0,138.0,624000.0,51.0,"{'Severe Storm': 47, 'Fire': 4}"
+New Hampshire,NH,2022,106.0,0.0,3520000.0,0.0,0
+New Jersey,NJ,2022,13.0,0.0,1345000.0,0.0,0
+New Mexico,NM,2022,2.0,187.0,155000.0,20.0,{'Fire': 20}
+Nevada,NV,2022,136.0,0.0,22000000.0,2.0,{'Fire': 2}
+New York,NY,2022,125.0,63.0,3520000.0,15.0,{'Winter Storm': 15}
+Ohio,OH,2022,116.0,50.0,7720000.0,0.0,0
+Oklahoma,OK,2022,117.0,121.0,11885000.0,10.0,{'Severe Storm': 10}
+Oregon,OR,2022,234.0,0.0,24700000.0,4.0,{'Fire': 4}
+Pennsylvania,PA,2022,15.0,0.0,3320000.0,0.0,0
+South Carolina,SC,2022,3.0,0.0,3200000.0,94.0,{'Hurricane': 94}
+South Dakota,SD,2022,98.0,0.0,2700000.0,30.0,{'Severe Storm': 30}
+Tennessee,TN,2022,104.0,28.0,6025000.0,23.0,"{'Severe Storm': 8, 'Tornado': 15}"
+Texas,TX,2022,213.0,132.0,36309000.0,13.0,{'Fire': 13}
+Virginia,VA,2022,108.0,0.0,5049000.0,32.0,{'Severe Storm': 32}
+Vermont,VT,2022,98.0,0.0,2700000.0,0.0,0
+Washington,WA,2022,105.0,0.0,4525000.0,46.0,"{'Fire': 8, 'Flood': 38}"
+Wisconsin,WI,2022,105.0,12.0,6400000.0,0.0,0
+West Virginia,WV,2022,103.0,0.0,3900000.0,4.0,"{'Severe Storm': 2, 'Flood': 2}"
+Wyoming,WY,2022,0.0,0.0,0.0,0.0,0
+Alabama,AL,2023,81.0,121.0,14360000.0,15.0,{'Severe Storm': 15}
+Arkansas,AR,2023,60.0,160.0,11780000.0,3.0,"{'Severe Storm': 2, 'Winter Storm': 1}"
+Arizona,AZ,2023,14.0,0.0,0.0,2.0,"{'Fire': 1, 'Severe Storm': 1}"
+California,CA,2023,35.0,0.0,1250000.0,139.0,"{'Tropical Storm': 1, 'Hurricane': 1, 'Severe Storm': 3, 'Winter Storm': 1, 'Flood': 131, 'Earthquake': 2}"
+Colorado,CO,2023,5.0,135.0,0.0,1.0,{'Flood': 1}
+Connecticut,CT,2023,0.0,0.0,0.0,0.0,0
+Delaware,DE,2023,31.0,0.0,5400000.0,0.0,0
+Florida,FL,2023,14.0,0.0,0.0,3.0,"{'Hurricane': 1, 'Tropical Storm': 1, 'Flood': 1}"
+Georgia,GA,2023,36.0,121.0,2960000.0,11.0,"{'Hurricane': 1, 'Severe Storm': 10}"
+Iowa,IA,2023,31.0,0.0,5400000.0,1.0,{'Flood': 1}
+Illinois,IL,2023,31.0,0.0,5400000.0,1.0,{'Severe Storm': 1}
+Indiana,IN,2023,31.0,0.0,5400000.0,1.0,{'Severe Storm': 1}
+Kansas,KS,2023,50.0,135.0,5400000.0,2.0,"{'Severe Storm': 1, 'Fire': 1}"
+Kentucky,KY,2023,45.0,0.0,11400000.0,2.0,"{'Flood': 1, 'Severe Storm': 1}"
+Louisiana,LA,2023,43.0,160.0,6380000.0,5.0,"{'Other': 1, 'Fire': 4}"
+Michigan,MI,2023,5.0,135.0,0.0,0.0,0
+Missouri,MO,2023,36.0,5.0,8200000.0,1.0,{'Severe Storm': 1}
+Mississippi,MS,2023,85.0,232.0,13980000.0,6.0,{'Severe Storm': 6}
+Nebraska,NE,2023,5.0,135.0,0.0,1.0,{'Fire': 1}
+New Jersey,NJ,2023,0.0,0.0,0.0,1.0,{'Severe Storm': 1}
+New Mexico,NM,2023,14.0,0.0,0.0,2.0,{'Fire': 2}
+Nevada,NV,2023,3.0,0.0,250000.0,1.0,{'Flood': 1}
+New York,NY,2023,0.0,0.0,0.0,7.0,"{'Severe Storm': 1, 'Snowstorm': 6}"
+Ohio,OH,2023,36.0,135.0,5400000.0,0.0,0
+Oklahoma,OK,2023,74.0,160.0,11780000.0,7.0,"{'Severe Storm': 3, 'Tornado': 1, 'Fire': 3}"
+Pennsylvania,PA,2023,31.0,0.0,5400000.0,0.0,0
+Tennessee,TN,2023,80.0,97.0,13980000.0,17.0,"{'Severe Storm': 5, 'Winter Storm': 12}"
+Texas,TX,2023,46.0,172.0,14780000.0,1.0,{'Winter Storm': 1}
+Washington,WA,2023,2.0,1.0,0.0,17.0,"{'Fire': 7, 'Severe Storm': 10}"
+Wyoming,WY,2023,5.0,135.0,0.0,1.0,{'Flood': 1}
+Alaska,AK,2019,0.0,0.0,0.0,10.0,"{'Fire': 6, 'Earthquake': 4}"
+Arizona,AZ,2019,0.0,0.0,0.0,4.0,"{'Fire': 2, 'Severe Storm': 2}"
+Guam,GU,2019,0.0,0.0,0.0,2.0,{'Typhoon': 2}
+Hawaii,HI,2019,0.0,0.0,0.0,2.0,{'Fire': 2}
+Idaho,ID,2019,0.0,0.0,0.0,7.0,{'Flood': 7}
+Kentucky,KY,2019,0.0,0.0,0.0,62.0,{'Severe Storm': 62}
+Northern Mariana Islands,MP,2019,0.0,0.0,0.0,10.0,{'Typhoon': 10}
+Montana,MT,2019,0.0,0.0,0.0,11.0,"{'Fire': 2, 'Flood': 9}"
+New Hampshire,NH,2019,0.0,0.0,0.0,2.0,{'Severe Storm': 2}
+New Mexico,NM,2019,0.0,0.0,0.0,2.0,{'Fire': 2}
+Nevada,NV,2019,0.0,0.0,0.0,6.0,{'Fire': 6}
+New York,NY,2019,0.0,0.0,0.0,19.0,{'Severe Storm': 19}
+Oregon,OR,2019,0.0,0.0,0.0,15.0,"{'Fire': 2, 'Flood': 7, 'Severe Storm': 6}"
+Puerto Rico,PR,2019,0.0,0.0,0.0,79.0,{'Severe Storm': 79}
+Utah,UT,2019,0.0,0.0,0.0,2.0,{'Fire': 2}
+Virgin Islands,VI,2019,0.0,0.0,0.0,3.0,{'Hurricane': 3}
+Vermont,VT,2019,0.0,0.0,0.0,7.0,{'Flood': 7}
+0,Virgin Islands of the U.S.,2019,0.0,0.0,0.0,1.0,{'Hurricane': 1}
+Arizona,AZ,2020,0.0,0.0,0.0,16.0,{'Fire': 16}
+California,CA,2020,0.0,0.0,0.0,86.0,{'Fire': 86}
+Hawaii,HI,2020,0.0,0.0,0.0,7.0,"{'Hurricane': 5, 'Severe Storm': 2}"
+Montana,MT,2020,0.0,0.0,0.0,14.0,{'Fire': 14}
+North Dakota,ND,2020,0.0,0.0,0.0,47.0,"{'Severe Storm': 7, 'Flood': 40}"
+Nevada,NV,2020,0.0,0.0,0.0,12.0,{'Fire': 12}
+Puerto Rico,PR,2020,0.0,0.0,0.0,279.0,"{'Flood': 2, 'Hurricane': 163, 'Earthquake': 114}"
+Utah,UT,2020,0.0,0.0,0.0,11.0,"{'Fire': 8, 'Earthquake': 3}"
+Virgin Islands,VI,2020,0.0,0.0,0.0,3.0,{'Hurricane': 3}
+Vermont,VT,2020,0.0,0.0,0.0,9.0,{'Severe Storm': 9}
+0,Virgin Islands of the U.S.,2020,0.0,0.0,0.0,1.0,{'Hurricane': 1}
+Wyoming,WY,2020,0.0,0.0,0.0,5.0,{'Fire': 5}
+Alaska,AK,2021,0.0,0.0,0.0,6.0,{'Mud/Landslide': 6}
+District of Columbia,DC,2021,0.0,0.0,0.0,2.0,{'Other': 2}
+New Hampshire,NH,2021,0.0,0.0,0.0,5.0,"{'Flood': 3, 'Severe Storm': 2}"
+Rhode Island,RI,2021,0.0,0.0,0.0,7.0,{'Hurricane': 7}
+Alaska,AK,2022,0.0,0.0,0.0,23.0,"{'Severe Storm': 14, 'Flood': 4, 'Mud/Landslide': 2, 'Fire': 3}"
+American Samoa,AS,2022,0.0,0.0,0.0,2.0,{'Severe Storm': 2}
+Hawaii,HI,2022,0.0,0.0,0.0,3.0,{'Severe Storm': 3}
+Massachusetts,MA,2022,0.0,0.0,0.0,6.0,{'Snowstorm': 6}
+Maine,ME,2022,0.0,0.0,0.0,4.0,{'Coastal Storm': 4}
+Puerto Rico,PR,2022,0.0,0.0,0.0,164.0,"{'Hurricane': 158, 'Flood': 6}"
+Rhode Island,RI,2022,0.0,0.0,0.0,7.0,{'Snowstorm': 7}
+Virgin Islands,VI,2022,0.0,0.0,0.0,1.0,{'Other': 1}
+0,Virgin Islands of the U.S.,2022,0.0,0.0,0.0,1.0,{'Other': 1}
+Alaska,AK,2023,0.0,0.0,0.0,2.0,"{'Flood': 1, 'Fire': 1}"
+Guam,GU,2023,0.0,0.0,0.0,3.0,"{'Tropical Storm': 2, 'Hurricane': 1}"
+Hawaii,HI,2023,0.0,0.0,0.0,6.0,{'Fire': 6}
+Massachusetts,MA,2023,0.0,0.0,0.0,1.0,{'Hurricane': 1}
+Maine,ME,2023,0.0,0.0,0.0,11.0,"{'Hurricane': 1, 'Flood': 3, 'Severe Storm': 7}"
+Minnesota,MN,2023,0.0,0.0,0.0,1.0,{'Flood': 1}
+Northern Mariana Islands,MP,2023,0.0,0.0,0.0,3.0,{'Tropical Storm': 3}
+Montana,MT,2023,0.0,0.0,0.0,3.0,"{'Flood': 2, 'Fire': 1}"
+North Dakota,ND,2023,0.0,0.0,0.0,9.0,"{'Flood': 1, 'Snowstorm': 8}"
+New Hampshire,NH,2023,0.0,0.0,0.0,6.0,"{'Flood': 1, 'Severe Storm': 5}"
+Oregon,OR,2023,0.0,0.0,0.0,5.0,"{'Mud/Landslide': 1, 'Fire': 4}"
+Rhode Island,RI,2023,0.0,0.0,0.0,1.0,{'Fire': 1}
+South Carolina,SC,2023,0.0,0.0,0.0,1.0,{'Hurricane': 1}
+South Dakota,SD,2023,0.0,0.0,0.0,23.0,"{'Flood': 1, 'Winter Storm': 22}"
+Vermont,VT,2023,0.0,0.0,0.0,12.0,"{'Flood': 3, 'Severe Storm': 9}"
