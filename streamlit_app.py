@@ -41,7 +41,7 @@ def display_map(df, year):
         data=df,
         columns=('State Name', 'Total Deaths'),
         key_on='feature.properties.name',
-        fill_color="YlGn",
+        fill_color="Reds",
         fill_opacity=0.7,
         line_opacity=0.8,
         legend_name="Reports",
@@ -91,9 +91,6 @@ def main():
     #Load Data
     # df_continental = pd.read_csv('data/AxS-Continental_Full Data_data.csv')
     df_continental = pd.read_csv('my_data/merged.csv')
-    # df_fraud = pd.read_csv('data/AxS-Fraud Box_Full Data_data.csv')
-    # df_median = pd.read_csv('data/AxS-Median Box_Full Data_data.csv')
-    # df_loss = pd.read_csv('data/AxS-Losses Box_Full Data_data.csv')
 
     #Display Filters and Map
     year = display_time_filters(df_continental)
@@ -102,7 +99,7 @@ def main():
     # report_type = display_report_type_filter()
 
     # Display Metrics
-    st.subheader(f'{state_name} Data')
+    st.subheader(f'{state_name} Details')
 
     col1, col2, col3 = st.columns(3)
     with col1:
