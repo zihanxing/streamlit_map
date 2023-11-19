@@ -23,13 +23,14 @@ def display_time_filters(df):
 
 def display_state_filter(df, state_name):
     state_list = [''] + list(df['State Name'].unique())
-    state_list.remove('0')
+    if '0' in state_list:
+        state_list.remove('0')
     state_list.sort()
     state_index = state_list.index(state_name) if state_name and state_name in state_list else 0
     return st.sidebar.selectbox('State', state_list, state_index)
 
-# def display_report_type_filter():
-#     return st.sidebar.radio('Report Type', ['Fraud', 'Other'])
+def display_risk_level():
+    return st.sidebar.radio('Risk Levels', ['All', 'Low', 'Medium', 'High'])
 
 def display_map(df, year):
     df = df[(df['Year'] == year)]
@@ -94,9 +95,19 @@ def main():
 
     #Display Filters and Map
     year = display_time_filters(df_continental)
+    if year == 2024:
+        risk_level = display_risk_level()
+        if risk_level == 'Low':
+            df_continental = df_continental[df_continental['Risk Level'] == 1]
+        elif risk_level == 'Medium':
+            df_continental = df_continental[df_continental['Risk Level'] == 2]
+        elif risk_level == 'High':
+            df_continental = df_continental[df_continental['Risk Level'] == 3]
+        elif risk_level == 'All':
+            df_continental = df_continental
     state_name = display_map(df_continental, year)
     state_name = display_state_filter(df_continental, state_name)
-    # report_type = display_report_type_filter()
+    
 
     # Display Metrics
     st.subheader(f'{state_name} Details')
